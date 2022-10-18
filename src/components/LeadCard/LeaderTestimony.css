@@ -1,0 +1,111 @@
+.Founder{
+    position: relative;
+    padding: 3rem;
+    border-radius: 20px;
+    width: 55%;
+    height: 40%;
+    margin:0px 0px;
+    /* background: #F8F5ED;
+    box-shadow:  20px 20px 29px #d3d0c9,-20px -20px 29px #ffffff;  */
+    background: #ffffff;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.Fcol p{
+    color:black; 
+    font-Family:'Inter', sans-serif; 
+    font-size:100%;
+    text-align: justify;
+}
+
+.col-3 img{
+    background: #F8F5ED;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    height:110%;
+    width:110%;
+    border-radius:10px;
+    position:absolute;
+    left: -138px;
+}
+
+.socialmedia{
+    padding: 4px;
+    display: flex;
+    gap: 20px;
+    float: right;
+    color: black;
+    padding-right: 20px;
+}
+
+.NameHolder{
+    color: black;
+    font-family:'Inter',sans-serif;
+    font-style:italic;
+    text-align: center;
+}
+.NameHolder::first-line{
+    font-weight: bold;
+    font-size: large;
+}
+
+.NHolder{
+    justify-content:space-between;
+    width:100%;
+}
+
+.Leader{
+    margin:70px 0px;
+    width: 65%;
+    border-radius: 20px;
+    display: flex;
+    justify-content:center;
+    transform: translateX(26%);
+}
+
+.SemiLead{
+    background: #ffffff;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;  
+    margin: 20px;
+    border-radius: 20px;
+    position:relative;
+    height: 100%;
+    width: 100%; 
+    color: black;
+    font-family: 'Inter',sans-serif;
+    font-size: 100%;
+    
+}
+
+
+.avatarSec{
+    position: relative;
+    padding-top: 45%;
+    text-align:center;
+    font-style: italic;
+}
+.avatarSec::first-line{
+    font-weight: bold;
+    font-size: large;
+}
+
+.avatar{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 5%;
+}
+
+.cont{
+    color: black;
+    font-family: 'Inter',sans-serif;
+    text-align:left;
+    width: 40%;
+    height:50%;
+    width: 100%;
+    padding: 20px;
+    word-spacing: 3px;
+}
+
+
+/* icon text . provider */

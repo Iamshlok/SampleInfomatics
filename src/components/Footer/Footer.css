@@ -1,0 +1,29 @@
+.footer{
+    background-color: black;
+    width: 100%;
+    height: auto;
+    padding: 25px;
+    /* border: 100%; */
+    display:flex; 
+}
+.col{
+    text-align: center;
+    color: white;
+    font-family: openSans;
+    cursor: pointer;
+}
+
+.footcopy{
+    font-family:"'Inter', sans-serif";
+    padding: 0.5px;
+    text-align: center;
+    background-color:var(--cream);
+    color:black;
+}
+
+.social{
+    padding-top: 8px;
+    color: white;
+    width: 100%;
+    justify-content: space-evenly;
+}
